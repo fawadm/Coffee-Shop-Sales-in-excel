@@ -8,7 +8,7 @@
 •	Total Footfall: 149,116
 •	Average Bill per Person: $4.69
 •	Average Orders per Person: 1.4
-#Orders by Hours
+# Orders by Hours
 
 “This line chart shows how orders vary by time of day. As you can see, sales peak between 8 AM and 10 AM — typical morning coffee hours — and then gradually decline through the day.”
 
