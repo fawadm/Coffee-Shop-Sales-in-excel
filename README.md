@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-in-excel
+# Coffee-Shop-Sales
 “This is a Coffee Shop Sales Dashboard I designed to analyze key business metrics such as total sales, customer footfall, and category-wise performance. The goal was to provide quick insights for decision-making and to identify peak sales hours, top-performing products, and best-performing store locations.”
 
 # “This dashboard was built using Excel. I applied pivot tables, slicers for interactivity, and dynamic charts. It’s fully interactive — users can filter by month or day to view trends.”
